@@ -26,7 +26,7 @@ To run tests, do the following:
   4. To run all tests, do `./tests/build/all_tests`
 
 ## Authors
-The project is done by me, [InfinityZxc](https://github.com/InfinityZxc) and [0masiza0](https://github.com/0masiza0)
+The project is done by me, [InfinityZxc](https://github.com/InfinityZxc) and [kanishev2002](https://github.com/kanishev2002) 
 
 ## License
 The library is licensed under the MIT license.
